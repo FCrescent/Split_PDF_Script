@@ -1,7 +1,8 @@
-#Ce petit script permet de split un fichier PDF en 2
-#A refactoriser pour le rendre plus flexible, c-à-d :
-#- lui faire demander à l'utilisateur le nom du fichier à split, 
-#- lui demander les noms des fichiers finaux et 
+# Ce petit script python permet de split un fichier PDF en 2 
+# Pour être utilisé il faut changer manuellement les variables, les nombres etc
+# A refactoriser pour le rendre plus flexible, c-à-d :
+# - lui faire demander à l'utilisateur le nom du fichier à split, 
+# - lui demander les noms des fichiers finaux et 
 # la façon de le split (nbr de pages)
 
 import PyPDF2
